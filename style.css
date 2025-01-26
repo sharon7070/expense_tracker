@@ -1,0 +1,62 @@
+.heading{
+    padding-top: 40px;
+    text-align: center;
+}
+
+.box{
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.total{
+   display: flex;
+   flex-direction: row ;
+   margin: auto;
+}
+.exp{
+   margin-left: 30px;
+   
+}
+
+
+.inputitem {
+   display: flex;
+   flex-direction: row;
+   font-weight: bolder;
+   font-size: medium;
+   padding: 1%;
+}
+
+input,select,option{
+    border-radius: 10px;
+    border-color: grey;
+    padding: 1%;
+}
+
+#button{
+   font-size: medium;
+   border-radius: 10px;
+   border: 0px;
+   background-color: green;
+   color: white;
+   
+}
+
+#button:hover{
+    background-color: rgb(6, 182, 6);
+}
+
+
+.col1{
+   padding-top: 40px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.vertical-line {
+    width: 2px; 
+    background-color: black; 
+    height: 170px; 
+    margin: 0 55px; 
+}
+
+
+
